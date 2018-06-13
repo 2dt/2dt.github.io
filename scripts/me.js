@@ -16,7 +16,7 @@ function loaded(){
 
 var x = 0;
 
-var titleText = [ "j", "jo", "jok","jok3","jok3r","jok3r.","jok3r.","jok3r.c","jok3r.cc", "jok3r.c", "jok3r.", "jok3r.","jok3r","jok3","jok","jo.","j",];
+var titleText = [ "k", "ko", "kod","koda","koda.","koda.p","koda.pw","koda.p","koda.", "koda", "kod", "ko","k",];
 
 function loop(){
 
