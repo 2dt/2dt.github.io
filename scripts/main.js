@@ -20,7 +20,7 @@ $(document).ready(function() {
         $('#marquee').append('<a href="' + plink.plink + '">' + plink.name + '</a>');
         var plink = $('#marquee').children('a').last();
         if (i != plinks.length - 1) {
-            $('#marquee').append(' - ')
+            $('#marquee').append(' , ')
         }
     }
     $('#marquee').marquee({
