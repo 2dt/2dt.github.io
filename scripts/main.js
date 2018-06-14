@@ -5,16 +5,7 @@ $(document).ready(function() {
     }, {
         name: 'twitch',
         plink: 'http://steamcommunity.com/id/kxda'
-	}, {	
-	    name: 'koda',
-        plink: 'http://steamcommunity.com/id/kxda'
-	}, {	
-		name: 'koda',
-        plink: 'http://steamcommunity.com/id/kxda'
-	}, {	
-	    name: 'koda',
-        plink: 'http://steamcommunity.com/id/kxda'
-       }, ];
+	} ];
     for (var i in plinks) {
         var plink = plinks[i];
         $('#marquee').append('<a href="' + plink.plink + '">' + plink.name + '</a>');
