@@ -16,7 +16,7 @@ function loaded(){
 
 var x = 0;
 
-var titleText = [ "k", "ko", "kod","koda","koda.","koda.p","koda.pw","koda.p","koda.", "koda", "kod", "ko","k",];
+var titleText = [ "k", "ko", "kod","koda","koda.","koda.p","koda.pw","koda.p","koda.","koda","kod","ko",];
 
 function loop(){
 
