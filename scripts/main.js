@@ -3,7 +3,7 @@ $(document).ready(function() {
         name: 'youtube',
         plink: 'https://www.youtube.com/channel/UCflAo1o1z-rAInbvQDfGR5w'
     }, {
-        name: 'koda',
+        name: 'twitch',
         plink: 'http://steamcommunity.com/id/kxda'
 	}, {	
 	    name: 'koda',
