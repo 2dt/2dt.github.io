@@ -3,11 +3,11 @@ $(document).ready(function() {
         name: 'steam',
         plink: 'https://steamcommunity.com/id/kxda/'
     }, {
-        name: 'youtube',
-        plink: 'http://steamcommunity.com/id/kxda'
-	}, {    
-		name: 'discord',
+        name: 'discord',
         plink: 'https://discord.gg/Tfgpbh6'
+	}, {    
+		name: 'youtube',
+        plink: 'https://www.youtube.com/channel/UCflAo1o1z-rAInbvQDfGR5w'
     }, {
         name: 'twitch',
         plink: 'https://www.twitch.tv/kxda'
