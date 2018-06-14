@@ -1,10 +1,16 @@
 $(document).ready(function() {
     var plinks = [{
+        name: 'steam',
+        plink: 'https://steamcommunity.com/id/kxda/'
+    }, {
         name: 'youtube',
-        plink: 'https://www.youtube.com/channel/UCflAo1o1z-rAInbvQDfGR5w'
+        plink: 'http://steamcommunity.com/id/kxda'
+	}     
+		name: 'discord',
+        plink: 'https://discord.gg/Tfgpbh6'
     }, {
         name: 'twitch',
-        plink: 'http://steamcommunity.com/id/kxda'
+        plink: 'https://www.twitch.tv/kxda'
 	} ];
     for (var i in plinks) {
         var plink = plinks[i];
