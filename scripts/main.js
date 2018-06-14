@@ -5,7 +5,7 @@ $(document).ready(function() {
     }, {
         name: 'youtube',
         plink: 'http://steamcommunity.com/id/kxda'
-	}     
+	}, {    
 		name: 'discord',
         plink: 'https://discord.gg/Tfgpbh6'
     }, {
