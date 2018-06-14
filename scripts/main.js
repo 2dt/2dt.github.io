@@ -1,7 +1,7 @@
 $(document).ready(function() {
     var plinks = [{
-        name: 'koda',
-        plink: 'http://steamcommunity.com/id/kxda'
+        name: 'youtube',
+        plink: 'https://www.youtube.com/channel/UCflAo1o1z-rAInbvQDfGR5w'
     }, {
         name: 'koda',
         plink: 'http://steamcommunity.com/id/kxda'
